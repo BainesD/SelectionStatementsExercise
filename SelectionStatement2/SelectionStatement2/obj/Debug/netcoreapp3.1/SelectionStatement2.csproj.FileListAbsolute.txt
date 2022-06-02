@@ -1,0 +1,14 @@
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatement2\SelectionStatement2\bin\Debug\netcoreapp3.1\SelectionStatement2.exe
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatement2\SelectionStatement2\bin\Debug\netcoreapp3.1\SelectionStatement2.deps.json
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatement2\SelectionStatement2\bin\Debug\netcoreapp3.1\SelectionStatement2.runtimeconfig.json
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatement2\SelectionStatement2\bin\Debug\netcoreapp3.1\SelectionStatement2.runtimeconfig.dev.json
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatement2\SelectionStatement2\bin\Debug\netcoreapp3.1\SelectionStatement2.dll
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatement2\SelectionStatement2\bin\Debug\netcoreapp3.1\SelectionStatement2.pdb
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatement2\SelectionStatement2\obj\Debug\netcoreapp3.1\SelectionStatement2.csproj.AssemblyReference.cache
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatement2\SelectionStatement2\obj\Debug\netcoreapp3.1\SelectionStatement2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatement2\SelectionStatement2\obj\Debug\netcoreapp3.1\SelectionStatement2.AssemblyInfoInputs.cache
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatement2\SelectionStatement2\obj\Debug\netcoreapp3.1\SelectionStatement2.AssemblyInfo.cs
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatement2\SelectionStatement2\obj\Debug\netcoreapp3.1\SelectionStatement2.csproj.CoreCompileInputs.cache
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatement2\SelectionStatement2\obj\Debug\netcoreapp3.1\SelectionStatement2.dll
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatement2\SelectionStatement2\obj\Debug\netcoreapp3.1\SelectionStatement2.pdb
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatement2\SelectionStatement2\obj\Debug\netcoreapp3.1\SelectionStatement2.genruntimeconfig.cache

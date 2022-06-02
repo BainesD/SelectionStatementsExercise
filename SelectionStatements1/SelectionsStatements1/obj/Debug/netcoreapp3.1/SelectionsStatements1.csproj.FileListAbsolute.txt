@@ -1,0 +1,14 @@
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatements1\SelectionsStatements1\SelectionsStatements1\bin\Debug\netcoreapp3.1\SelectionsStatements1.exe
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatements1\SelectionsStatements1\SelectionsStatements1\bin\Debug\netcoreapp3.1\SelectionsStatements1.deps.json
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatements1\SelectionsStatements1\SelectionsStatements1\bin\Debug\netcoreapp3.1\SelectionsStatements1.runtimeconfig.json
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatements1\SelectionsStatements1\SelectionsStatements1\bin\Debug\netcoreapp3.1\SelectionsStatements1.runtimeconfig.dev.json
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatements1\SelectionsStatements1\SelectionsStatements1\bin\Debug\netcoreapp3.1\SelectionsStatements1.dll
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatements1\SelectionsStatements1\SelectionsStatements1\bin\Debug\netcoreapp3.1\SelectionsStatements1.pdb
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatements1\SelectionsStatements1\SelectionsStatements1\obj\Debug\netcoreapp3.1\SelectionsStatements1.csproj.AssemblyReference.cache
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatements1\SelectionsStatements1\SelectionsStatements1\obj\Debug\netcoreapp3.1\SelectionsStatements1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatements1\SelectionsStatements1\SelectionsStatements1\obj\Debug\netcoreapp3.1\SelectionsStatements1.AssemblyInfoInputs.cache
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatements1\SelectionsStatements1\SelectionsStatements1\obj\Debug\netcoreapp3.1\SelectionsStatements1.AssemblyInfo.cs
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatements1\SelectionsStatements1\SelectionsStatements1\obj\Debug\netcoreapp3.1\SelectionsStatements1.csproj.CoreCompileInputs.cache
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatements1\SelectionsStatements1\SelectionsStatements1\obj\Debug\netcoreapp3.1\SelectionsStatements1.dll
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatements1\SelectionsStatements1\SelectionsStatements1\obj\Debug\netcoreapp3.1\SelectionsStatements1.pdb
+C:\Users\baine\Desktop\repos\csharp27\SelectionStatements\SelectionStatements1\SelectionsStatements1\SelectionsStatements1\obj\Debug\netcoreapp3.1\SelectionsStatements1.genruntimeconfig.cache
