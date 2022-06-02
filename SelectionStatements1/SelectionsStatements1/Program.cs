@@ -7,14 +7,15 @@ namespace SelectionsStatements1
         static void Main(string[] args)
         {
             GuessNumber();
-            
+            //GuessNumber() is the better version of this app
+            //My first attempt at this assignment is below on lines 13-41
+            //While this version works, at a basic level, it does not allow the user to input anything other than integers
             
             //var r = new Random();
             //var favNumber = r.Next(1,3);
             //Console.WriteLine("Can you guess what number I'm thinking of? It's between 1 and 1,000.");
             //int i = 0;
             
-
             //do
             //{
             //    var userInput = int.Parse(Console.ReadLine());
@@ -43,6 +44,10 @@ namespace SelectionsStatements1
         }
         public static void GuessNumber()
         { 
+            // This is my second attempt at the assignment using a more elegant design.
+            // I got the idea for this version from my T.A. Amoriss
+            // This version allows the user to input any character and the application will recognize it and respond
+
             var r = new Random();
             var favnumber = r.Next(1,10);
             Console.WriteLine("Can you guess what number I'm thinking of? It's between 1 and 10");

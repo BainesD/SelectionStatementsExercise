@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baine\\Desktop\\repos\\csharp27\\SelectionStatements\\SelectionStatements1\\SelectionsStatements1\\SelectionsStatements1\\SelectionsStatements1.csproj": {}
+    "C:\\Users\\baine\\Desktop\\repos\\csharp27\\SelectionStatements\\SelectionStatements1\\SelectionsStatements1\\SelectionsStatements1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baine\\Desktop\\repos\\csharp27\\SelectionStatements\\SelectionStatements1\\SelectionsStatements1\\SelectionsStatements1\\SelectionsStatements1.csproj": {
+    "C:\\Users\\baine\\Desktop\\repos\\csharp27\\SelectionStatements\\SelectionStatements1\\SelectionsStatements1\\SelectionsStatements1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baine\\Desktop\\repos\\csharp27\\SelectionStatements\\SelectionStatements1\\SelectionsStatements1\\SelectionsStatements1\\SelectionsStatements1.csproj",
+        "projectUniqueName": "C:\\Users\\baine\\Desktop\\repos\\csharp27\\SelectionStatements\\SelectionStatements1\\SelectionsStatements1\\SelectionsStatements1.csproj",
         "projectName": "SelectionsStatements1",
-        "projectPath": "C:\\Users\\baine\\Desktop\\repos\\csharp27\\SelectionStatements\\SelectionStatements1\\SelectionsStatements1\\SelectionsStatements1\\SelectionsStatements1.csproj",
+        "projectPath": "C:\\Users\\baine\\Desktop\\repos\\csharp27\\SelectionStatements\\SelectionStatements1\\SelectionsStatements1\\SelectionsStatements1.csproj",
         "packagesPath": "C:\\Users\\baine\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baine\\Desktop\\repos\\csharp27\\SelectionStatements\\SelectionStatements1\\SelectionsStatements1\\SelectionsStatements1\\obj\\",
+        "outputPath": "C:\\Users\\baine\\Desktop\\repos\\csharp27\\SelectionStatements\\SelectionStatements1\\SelectionsStatements1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
