@@ -55,7 +55,7 @@ namespace SelectionsStatements1
 
             if (num < 0 || num > 1000 || !userInput)
             {
-                Console.WriteLine("Silly human! I said a number between 1 and 10. Try again!");
+                Console.WriteLine("Silly human! I said a number between 1 and 1000. Try again!");
                 TryAgain();
             }
             else if (num < favnumber)
@@ -80,7 +80,7 @@ namespace SelectionsStatements1
                
                 if (num < 0 || num > 1000 || !userInput)
                 {
-                    Console.WriteLine("Silly human! I said a number between 1 and 10. Try again!");
+                    Console.WriteLine("Silly human! I said a number between 1 and 1000. Try again!");
                     TryAgain();
                 }
                 else if (num < favnumber)
