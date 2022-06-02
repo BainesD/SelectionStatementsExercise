@@ -50,7 +50,7 @@ namespace SelectionsStatements1
 
             var r = new Random();
             var favnumber = r.Next(1,1000);
-            Console.WriteLine("Can you guess what number I'm thinking of? It's between 1 and 10");
+            Console.WriteLine("Can you guess what number I'm thinking of? It's between 1 and 1000");
             bool userInput = int.TryParse(Console.ReadLine(), out int num);
 
             if (num < 0 || num > 1000 || !userInput)
