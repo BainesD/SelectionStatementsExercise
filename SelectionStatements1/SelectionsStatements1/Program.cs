@@ -12,7 +12,7 @@ namespace SelectionsStatements1
             //While this version works, at a basic level, it does not allow the user to input anything other than integers
             
             //var r = new Random();
-            //var favNumber = r.Next(1,3);
+            //var favNumber = r.Next(1,1000);
             //Console.WriteLine("Can you guess what number I'm thinking of? It's between 1 and 1,000.");
             //int i = 0;
             
@@ -49,11 +49,11 @@ namespace SelectionsStatements1
             // This version allows the user to input any character and the application will recognize it and respond
 
             var r = new Random();
-            var favnumber = r.Next(1,10);
+            var favnumber = r.Next(1,1000);
             Console.WriteLine("Can you guess what number I'm thinking of? It's between 1 and 10");
             bool userInput = int.TryParse(Console.ReadLine(), out int num);
 
-            if (num < 0 || num > 10 || !userInput)
+            if (num < 0 || num > 1000 || !userInput)
             {
                 Console.WriteLine("Silly human! I said a number between 1 and 10. Try again!");
                 TryAgain();
@@ -78,7 +78,7 @@ namespace SelectionsStatements1
             {
                 bool userInput = int.TryParse(Console.ReadLine(), out int num);
                
-                if (num < 0 || num > 10 || !userInput)
+                if (num < 0 || num > 1000 || !userInput)
                 {
                     Console.WriteLine("Silly human! I said a number between 1 and 10. Try again!");
                     TryAgain();
